@@ -1,0 +1,21 @@
+#event_form{
+    color: blue;
+}
+
+#event_name{
+    width: 800px;
+    /* margin-left: 800px; */
+
+}
+
+#event_date{
+    padding-left: 50px;
+}
+
+/* #event_time{
+    margin-left: 40px;
+} */
+
+KeyboardDatePicker{
+    padding-left: 40px;
+}
